@@ -13,7 +13,7 @@ test ('Login',async({page})=>{
 
   await page.click('text=Apple iPhone 16 (Black, 256 GB)');
 
-  await page.click('text=₹84,900')
+  // await page.click('text=₹84,900')
 
   // await page.pause();
 
