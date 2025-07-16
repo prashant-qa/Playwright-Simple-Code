@@ -15,7 +15,6 @@ npm init playwright@latest
 
 #2
 for run use this command 
-
+``
 npx playwright test Order.spec.js --project=chromium --headed
-<>br<>
 npx playwright test Youtube.spec.js --project=chromium --headed
